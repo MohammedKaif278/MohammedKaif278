@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **Java | Spring Boot | JavaScript | HTML/CSS | React**
 - 👨‍💻 All my projects are available at **[My Repositories](https://github.com/YOUR_USERNAME?tab=repositories)**
 - 💬 Ask me about **Java, Web Development, My Projects**
-- 📫 How to reach me: **your-email@gmail.com**
+- 📫 How to reach me: **dalvikaif@gmail.com**
 - ⚡ Fun fact: I love building smart and fast web apps!
 
 ---
