@@ -54,6 +54,7 @@
 </p>
 
 ---
+![GitHub Streak](https://streak-stats.demolab.com/?user=MohammedKaif278&theme=tokyonight&cache_seconds=86400&hide_border=false)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=MohammedKaif278&theme=tokyonight)
 
