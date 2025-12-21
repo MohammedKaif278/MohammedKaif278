@@ -26,6 +26,9 @@
 #### **Frameworks & Libraries**
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+
 
 #### **Tools**
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
@@ -56,5 +59,5 @@
 ---
 ![GitHub Streak](https://streak-stats.demolab.com/?user=MohammedKaif278&theme=tokyonight&cache_seconds=86400&hide_border=false)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=MohammedKaif278&theme=tokyonight)
+//![GitHub Streak](https://streak-stats.demolab.com/?user=MohammedKaif278&theme=tokyonight)
 
