@@ -21,10 +21,13 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)
+
+
+
+#### **Databases**
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
 
 
 #### **Frameworks & Libraries**
@@ -65,5 +68,5 @@
 ---
 ![GitHub Streak](https://streak-stats.demolab.com/?user=MohammedKaif278&theme=tokyonight&cache_seconds=86400&hide_border=false)
 
-//![GitHub Streak](https://streak-stats.demolab.com/?user=MohammedKaif278&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=MohammedKaif278&theme=tokyonight)
 
