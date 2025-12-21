@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning **Java | Spring Boot | JavaScript | HTML/CSS | React**
   <p align="center">
   🌐 <b>Portfolio:</b> 
-  <a href="[https://your-portfolio-link.com](https://mohammedkaifportfolio.netlify.app/)" target="_blank">
+  <a href="https://mohammedkaifportfolio.netlify.app/" target="_blank">
     https://your-portfolio-link.com
   </a>
 </p>
