@@ -10,10 +10,9 @@
 
 ### 🚀 About Me
 - 🌱 I’m currently learning **Java | Spring Boot | JavaScript | HTML/CSS | React**
-  <p align="center">
+- <p >
   🌐 <b>Portfolio:</b> 
   <a href="https://mohammedkaifportfolio.netlify.app/" target="_blank">
-    https://your-portfolio-link.com
   </a>
 </p>
 - 👨‍💻 All my projects are available at **[My Repositories](https://github.com/YOUR_USERNAME?tab=repositories)**
