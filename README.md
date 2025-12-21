@@ -9,16 +9,23 @@
 ---
 
 ### 🚀 About Me
-- 🌱 I’m currently learning **Java | Spring Boot | JavaScript | HTML/CSS | React**
-- <p >
-  🌐 <b>Portfolio:</b> 
-  <a href="https://mohammedkaifportfolio.netlify.app/" target="_blank">
-  </a>
-</p>
-- 👨‍💻 All my projects are available at **[My Repositories](https://github.com/YOUR_USERNAME?tab=repositories)**
-- 💬 Ask me about **Java, Web Development, My Projects**
-- 📫 How to reach me: **dalvikaif@gmail.com**
-- ⚡ Fun fact: I love building smart and fast web apps!
+🌱 **Currently Learning**  
+`Java` · `Spring Boot` · `JavaScript` · `HTML/CSS` · `React`
+
+🌐 **Portfolio**  
+👉 [mohammedkaifportfolio.netlify.app](https://mohammedkaifportfolio.netlify.app/)
+
+👨‍💻 **Projects**  
+👉 [View My GitHub Repositories](https://github.com/MohammedKaif278?tab=repositories)
+
+💬 **Ask Me About**  
+Java · Web Development · My Projects
+
+📫 **Contact Me**  
+📧 **dalvikaif@gmail.com**
+
+⚡ **Fun Fact**  
+I love building **smart, fast, and scalable web applications** 🚀
 
 ---
 
