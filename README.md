@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mohammed Kaif Dalvi</h1>
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Aspiring+Full+Stack+Java+Developer;Web+Developer;Tech+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=22&duration=2500&pause=1200&color=00FFAB&center=true&vCenter=true&width=750&lines=Aspiring+Full+Stack+Java+Developer+%7C+Web+Developer+%7C+Tech+Enthusiast" />
 </h3>
+
 
 
 ---
